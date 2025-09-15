@@ -1,5 +1,6 @@
 
 Projeto de Triagem de Service Desk com Langchain e Google Gemini
+
 Este projeto demonstra a criação de um sistema simples de triagem automática para Service Desk utilizando a biblioteca Langchain e o modelo Google Gemini 2.5 Flash. O objetivo é classificar as mensagens dos usuários em categorias como AUTO_RESOLVER, PEDIR_INFO ou ABRIR_CHAMADO, além de determinar a urgência e identificar campos faltantes. Ele também implementa um sistema básico de Retrieval-Augmented Generation (RAG) para responder a perguntas baseadas em documentos de políticas internas.
 
 Nota: Este projeto ainda está em desenvolvimento e pode sofrer alterações.
